@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "simplefarming",
+  "version": "${version}",
+
+  "name": "Simple Farming",
+  "description": "Extends the farming system with more fruits, vegetables, and meals",
+  "authors": [
+    "ZestyBlaze",
+    "enemeez1"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "",
+    "issues": ""
+  },
+
+  "license": "MIT License",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.zestyblaze.simplefarming.SimpleFarming"
+    ],
+    "modmenu": [
+      "net.zestyblaze.simplefarming.integration.ModMenuIntegration"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17",
+    "cloth-config2": ">=6.1.48"
+  }
+}

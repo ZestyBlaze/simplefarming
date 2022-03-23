@@ -1,6 +1,0 @@
-{
-    "parent": "simplefarming:block/cross_crop",
-    "textures": {
-        "cross_crop": "simplefarming:block/corn_crop4"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "type": "simplefarming:brewing",
-    "ingredient": {
-        "item": "minecraft:apple"
-    },
-    "result": {
-        "item": "simplefarming:cider"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "simplefarming:block/marshmallow_plant1"
-    }
-}

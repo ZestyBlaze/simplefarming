@@ -1,9 +1,0 @@
-{
-    "type": "simplefarming:brewing",
-    "ingredient": {
-        "item": "simplefarming:cactus_fruit"
-    },
-    "result": {
-        "item": "simplefarming:tiswin"
-    }
-}

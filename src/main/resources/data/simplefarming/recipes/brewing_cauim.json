@@ -1,9 +1,0 @@
-{
-    "type": "simplefarming:brewing",
-    "ingredient": {
-        "item": "simplefarming:cassava"
-    },
-    "result": {
-        "item": "simplefarming:cauim"
-    }
-}
